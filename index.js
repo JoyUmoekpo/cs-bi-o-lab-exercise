@@ -38,10 +38,10 @@ function findFourth(numbers) {
   }
 
 // Q: What is the time complexity of of this solution?
-// ANSWER:
+// ANSWER: 0(1)
 
 // Q: Given an array of numbers, what is the space complexity of this function?
-// ANSWER:
+// ANSWER: 0(1)
 
 
 // Q: Could you come up with a solution that has a better time complexity? If so, write out that solution and note the time complexity. If not, why not?
@@ -55,10 +55,10 @@ function printA() {
     }
 }
 // Q: What is the time complexity of this function?
-// ANSWER:
+// ANSWER: 0(1)
 
 // Q: What is the space complexity of this function?
-// ANSWER:
+// ANSWER: 0(1)
 
 // 4) -------------------------------------------------------
 function printB(number) {
