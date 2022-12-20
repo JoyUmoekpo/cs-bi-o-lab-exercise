@@ -67,10 +67,10 @@ function printB(number) {
   }
 }
 // Q: What is the time complexity of this function?
-// ANSWER:
+// ANSWER: 0(n)
 
 // Q: What is the space complexity of this function?
-// ANSWER:
+// ANSWER: 0(1)
 
 
 
