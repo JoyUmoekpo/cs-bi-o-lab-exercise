@@ -87,7 +87,7 @@ function printC(num, arr) {
 
 // Q: What is the space complexity of this function?
 // ANSWER: O(1)
-
+ 
 
 // 6) -------------------------------------------------------
 function nested(numbers) {
